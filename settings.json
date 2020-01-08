@@ -1,0 +1,17 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "all",
+    "diffEditor.renderSideBySide": true,
+    "git.autofetch": true,
+    "breadcrumbs.enabled": false,
+    "search.exclude": {
+        "**/.nuxt": true,
+        "**/dist": true
+    },
+    "terminal.integrated.rendererType": "dom",
+    "todo-tree.highlights.enabled": true,
+    "workbench.editor.showTabs": true,
+}
